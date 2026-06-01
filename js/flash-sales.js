@@ -6,7 +6,7 @@ const products = [
         discount: -40,
         rating: 5,
         reviews: 88,
-        image: "/products/havit-gamepad.png"
+        image: "/images/havit-gamepad.png"
     },
     {
         name: "AK-900 Wired Keyboard",
@@ -15,7 +15,7 @@ const products = [
         discount: -35,
         rating: 4,
         reviews: 75,
-        image: "/products/ak-900-keyboard.png"
+        image: "/images/ak-900-keyboard.png"
     },
     {
         name: "IPS LCD Gaming Monitor",
@@ -24,7 +24,7 @@ const products = [
         discount: -30,
         rating: 5,
         reviews: 99,
-        image: "/products/ips-lcd-monitor.png"
+        image: "/images/ips-lcd-monitor.png"
     },
     {
         name: "S-Series Comfort Chair",
@@ -33,7 +33,7 @@ const products = [
         discount: -25,
         rating: 4.5,
         reviews: 99,
-        image: "/products/comfort-chair.png"
+        image: "/images/comfort-chair.png"
     },
     {
         name: "Small BookSelf",
@@ -42,7 +42,7 @@ const products = [
         discount: -15,
         rating: 5,
         reviews: 65,
-        image: "/products/bookshelf.png"
+        image: "/images/bookshelf.png"
     }
 ];
 
@@ -62,7 +62,7 @@ const bestSellingProducts = [
         originalPrice: 360,
         rating: 5,
         reviews: 65,
-        image: "/products/north-coat.png"
+        image: "/images/north-coat.png"
     },
     {
         name: "Gucci duffle bag",
@@ -70,7 +70,7 @@ const bestSellingProducts = [
         originalPrice: 1160,
         rating: 4.5,
         reviews: 65,
-        image: "/products/gucci-duffle-bag.png"
+        image: "/images/gucci-duffle-bag.png"
     },
     {
         name: "RGB liquid CPU Cooler",
@@ -78,7 +78,7 @@ const bestSellingProducts = [
         originalPrice: 170,
         rating: 4.5,
         reviews: 65,
-        image: "/products/rgb-cpu-cooler.png"
+        image: "/images/rgb-cpu-cooler.png"
     },
     {
         name: "Small BookSelf",
@@ -86,7 +86,7 @@ const bestSellingProducts = [
         originalPrice: null,
         rating: 5,
         reviews: 65,
-        image: "/products/bookshelf.png"
+        image: "/images/bookshelf.png"
     }
 ];
 
@@ -97,7 +97,7 @@ const exploreProducts = [
         rating: 3,
         reviews: 35,
         colors: ["#db4444", "#000"],
-        image: "/products/dog-food.png"
+        image: "/images/dog-food.png"
     },
     {
         name: "CANON EOS DSLR Camera",
@@ -105,7 +105,7 @@ const exploreProducts = [
         rating: 4,
         reviews: 95,
         colors: ["#000"],
-        image: "/products/canon-camera.png"
+        image: "/images/canon-camera.png"
     },
     {
         name: "ASUS FHD Gaming Laptop",
@@ -113,7 +113,7 @@ const exploreProducts = [
         rating: 5,
         reviews: 325,
         colors: ["#000"],
-        image: "/products/asus-laptop.png"
+        image: "/images/asus-laptop.png"
     },
     {
         name: "Curology Product Set",
@@ -121,7 +121,7 @@ const exploreProducts = [
         rating: 4,
         reviews: 145,
         colors: ["#b7a695"],
-        image: "/products/curology-set.png"
+        image: "/images/curology-set.png"
     },
     {
         name: "Kids Electric Car",
@@ -129,7 +129,7 @@ const exploreProducts = [
         rating: 5,
         reviews: 65,
         colors: ["#db4444", "#000"],
-        image: "/products/kids-car.png",
+        image: "/images/kids-car.png",
         badge: "NEW"
     },
     {
@@ -138,7 +138,7 @@ const exploreProducts = [
         rating: 5,
         reviews: 35,
         colors: ["#eeff61", "#db4444"],
-        image: "/products/soccer-cleats.png"
+        image: "/images/soccer-cleats.png"
     },
     {
         name: "GP11 Shooter USB Gamepad",
@@ -146,7 +146,7 @@ const exploreProducts = [
         rating: 4.5,
         reviews: 55,
         colors: ["#000", "#db4444"],
-        image: "/products/gp11-gamepad.png",
+        image: "/images/gp11-gamepad.png",
         badge: "NEW"
     },
     {
@@ -155,7 +155,7 @@ const exploreProducts = [
         rating: 4.5,
         reviews: 55,
         colors: ["#184a48", "#db4444"],
-        image: "/products/satin-jacket.png"
+        image: "/images/satin-jacket.png"
     }
 ];
 
